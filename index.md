@@ -1,1 +1,1 @@
-[https://github.com/Shurmn/skribble.git]
+[Skribble](https://github.com/Shurmn/skribble.git)
